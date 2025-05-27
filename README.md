@@ -4,7 +4,7 @@ A collection of certifications I've earned to enhance my skills in software deve
 
 ## 🖥️ Programming
 
-- **[Intro to Java – Codecademy](/intro to java certificate.pdf)**  
+- **[Intro to Java – Codecademy]((https://github.com/KyleWebberCoding/Certificates/blob/main/intro%20to%20java%20certificate.pdf))**  
   *Completed: March 2025*  
   Covered Java basics, object-oriented programming, and exception handling.
 
