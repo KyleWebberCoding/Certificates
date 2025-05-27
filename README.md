@@ -11,8 +11,3 @@ A collection of certifications I've earned to enhance my skills in software deve
 - **[Back-End Engineer Career Path – Codecademy]([link-to-certificate](https://github.com/KyleWebberCoding/certificates))**  
   *In Progress*  
   Focusing on APIs, databases, and server-side development.
-
-
-## 🔗 View All Certificates
-
-All certificates are available in the [certificates/](certificates/) folder.
